@@ -59,4 +59,8 @@ Follow the steps below to run the project locally on your system.
 
 ## 🎥 Project Demo Video
 
+
+https://github.com/user-attachments/assets/d890cd43-6f99-48f5-bd92-79e5e0a20bd4
+
+
 Demo video is available in the `server/demo` folder.
